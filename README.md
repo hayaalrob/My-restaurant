@@ -1,3 +1,6 @@
+
 # My-restaurant
-![My resturant ]("Screenshot (1)1.png")
+
+![My resturant ](Screenshot.png)
+
 Here's my restuarant :) 
